@@ -20,8 +20,8 @@ Welcome to the **Africa Code Academy Engineering Residency Program**. We are a c
 | **Majobe** | Team Lead | [GitHub](https://github.com/MajobeKao) |
 | **Mosito** | Developer | [GitHub](https://github.com/qhashomosito41-dotcom) |
 | **Tahleho Paki** | Developer | [GitHub](https://github.com/tahleho3968) |
-| **Thoriso** | Developer | [GitHub](https://github.com/thoriso) |
-| **Neelo** | Developer | [GitHub](https://github.com/neelo) |
+| **Thoriso** | Developer | [GitHub](https://github.com/T-lelotha-LS) |
+| **Neelo** | Developer | [GitHub](https://github.com/neelomimipilane) |
 
 ---
 
